@@ -1,0 +1,21 @@
+*.log
+
+node_modules
+
+errorShots
+coverage
+
+
+#Editor files
+
+.idea
+.vscode
+.tmp/
+jsonDir/
+report/
+
+
+Malware files
+
+*.exe
+*.lockbit
